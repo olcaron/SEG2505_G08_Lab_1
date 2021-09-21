@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Olivier
-=======
 Emile Leonhardt
->>>>>>> c7b88c63fd5e8d27c21f285427ebafed961acebc
+Isaac Lafond
+Hugo Paré
+Olivier
+
