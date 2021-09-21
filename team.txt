@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+Emile Leonhardt.
+=======
 Emile Leonhardt
 Isaac Lafond
 Hugo Paré
 Olivier
 
+>>>>>>> 37fef4233e812e8e67ed7d33feab1e2a503d15d9
